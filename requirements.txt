@@ -2,7 +2,7 @@ Keras==2.2.0
 Keras-Applications==1.0.2
 Keras-Preprocessing==1.0.1
 matplotlib==2.2.2
-numpy==1.13.3
+numpy==1.22.0
 numpydoc==0.7.0
 pandas==0.22.0
 pandocfilters==1.4.2
